@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Nik%20👋&fontSize=50&fontColor=fff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=200&section=header&text=Nice%20to%20see%20you%20here👋&fontSize=50&fontColor=fff&animation=twinkling)
 
 ### 🔭 About Me
 
@@ -113,4 +113,4 @@ Got a project in mind or a role that fits? Let's talk.
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=100&section=footer)
