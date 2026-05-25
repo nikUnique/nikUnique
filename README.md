@@ -39,13 +39,13 @@
 <table>
   <tr>
     <td width="45%" align="center" valign="top">
-      <img src="https://commitnobug.com//static/images/2025/11-november/pomo-simple-timer.png?w=1200&q=75" alt="The PomoSimple Timer" width="100%" style="border-radius:8px" />
+      <img src="https://commitnobug.com//static/images/2025/12-december/sea-battle-layout.png?w=1200&q=75" alt="Sea Battle Game" width="100%" style="border-radius:8px" />
     </td>
     <td width="55%" valign="top">
-      <h3><a href="https://commitnobug.com/blog/2025/11-november/the-pomo-simple-timer/" target="_blank" rel="noopener noreferrer">PomoSimple Timer</a></h3>
-      <p>The PomoSimple Timer is a web app designed for enhancing productivity by focusing on a task for short periods.</p>
+      <h3><a href="https://commitnobug.com/blog/2025/12-december/the-sea-battle-game/" target="_blank" rel="noopener noreferrer">Sea Battle Game</a></h3>
+      <p>In the "Sea Battle" game, you can play against a computer in a sea battle game.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -54,13 +54,13 @@
 <table>
   <tr>
     <td width="45%" align="center" valign="top">
-      <img src="https://commitnobug.com//static/images/2025/12-december/sea-battle-layout.png?w=1200&q=75" alt="Sea Battle Game" width="100%" style="border-radius:8px" />
+      <img src="https://commitnobug.com//static/images/2025/11-november/pomo-simple-timer.png?w=1200&q=75" alt="The PomoSimple Timer" width="100%" style="border-radius:8px" />
     </td>
     <td width="55%" valign="top">
-      <h3><a href="https://commitnobug.com/blog/2025/12-december/the-sea-battle-game/" target="_blank" rel="noopener noreferrer">Sea Battle Game</a></h3>
-      <p>In the "Sea Battle" game, you can play against a computer in a sea battle game.</p>
+      <h3><a href="https://commitnobug.com/blog/2025/11-november/the-pomo-simple-timer/" target="_blank" rel="noopener noreferrer">PomoSimple Timer</a></h3>
+      <p>The PomoSimple Timer is a web app designed for enhancing productivity by focusing on a task for short periods.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
     </td>
   </tr>
@@ -109,7 +109,7 @@ Got a project in mind or a role that fits? Let's talk.
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:commitnobug@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nik-utkov-18653b3b5/)
-[![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge)]([Check out my blog](https://commitnobug.com/blog/))
+[![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge)](https://commitnobug.com/blog/)
 
 </div>
 
