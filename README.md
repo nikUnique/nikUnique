@@ -45,8 +45,23 @@
     </td>
   </tr>
 </table>
-<img width="1918" height="1001" alt="pick-a-pair" src="https://github.com/user-attachments/assets/96dc9d52-ca5b-43d5-b984-fb0f4f5bc6f7" />
-<img width="1920" height="794" alt="cozy-pantry" src="https://github.com/user-attachments/assets/b93ed81a-3b04-416a-abd6-c7d999866230" />
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img width="1920" height="794" alt="Cozy Pantry website" src="https://github.com/user-attachments/assets/b93ed81a-3b04-416a-abd6-c7d999866230" />
+    </td>
+    <td width="55%" valign="top">
+      <h3><a href="https://freshgrocery.pages.dev" target="_blank" rel="noopener noreferrer">Cozy Pantry</a></h3>
+      <p>A lightweight, static product catalog website for local food shops — built with Next.js and deployed for free on Cloudflare Pages. Customers browse products on their phone and order in one tap via WhatsApp.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Jack%20👋&fontSize=50&fontColor=fff&animation=twinkling)
