@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Nik%20👋&fontSize=50&fontColor=fff&animation=twinkling)
 
-### 👨‍💻 About Me
+### 🔭 About Me
 
 - 🧠 Passionate about **React/Next.js, JavaScript/TypeScript**
 - 💼 Open to **remote JavaScript / React roles** worldwide
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Projects
+## 📦 Projects
 
 <table>
   <tr>
