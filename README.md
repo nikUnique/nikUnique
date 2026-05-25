@@ -19,21 +19,6 @@
 <table>
   <tr>
     <td width="45%" align="center" valign="top">
-      <img src="https://commitnobug.com//static/images/2025/12-december/sea-battle-layout.png?w=1200&q=75" alt="Sea Battle Game" width="100%" style="border-radius:8px" />
-    </td>
-    <td width="55%" valign="top">
-      <h3><a href="https://commitnobug.com/blog/2025/12-december/the-sea-battle-game/" target="_blank" rel="noopener noreferrer">Sea Battle Game</a></h3>
-      <p>In the "Sea Battle" game, you can play against a computer in a sea battle game.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="45%" align="center" valign="top">
       <img src="https://commitnobug.com//static/images/2025/11-november/pomo-simple-timer.png?w=1200&q=75" alt="The PomoSimple Timer" width="100%" style="border-radius:8px" />
     </td>
     <td width="55%" valign="top">
@@ -45,6 +30,24 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img src="https://commitnobug.com//static/images/2025/12-december/sea-battle-layout.png?w=1200&q=75" alt="Sea Battle Game" width="100%" style="border-radius:8px" />
+    </td>
+    <td width="55%" valign="top">
+      <h3><a href="https://commitnobug.com/blog/2025/12-december/the-sea-battle-game/" target="_blank" rel="noopener noreferrer">Sea Battle Game</a></h3>
+      <p>In the "Sea Battle" game, you can play against a computer in a sea battle game.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+<img width="1918" height="1001" alt="pick-a-pair" src="https://github.com/user-attachments/assets/96dc9d52-ca5b-43d5-b984-fb0f4f5bc6f7" />
+<img width="1920" height="794" alt="cozy-pantry" src="https://github.com/user-attachments/assets/b93ed81a-3b04-416a-abd6-c7d999866230" />
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Jack%20👋&fontSize=50&fontColor=fff&animation=twinkling)
 
