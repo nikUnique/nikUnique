@@ -62,6 +62,21 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img width="1920" height="794" alt="Pick a pair game interface" src="https://github.com/user-attachments/assets/b93ed81a-3b04-416a-abd6-c7d999866230" />
+    </td>
+    <td width="55%" valign="top">
+      <h3><a href="https://pick-a-pair.commitnobug.com/" target="_blank" rel="noopener noreferrer">Pick-a-Pair</a></h3>
+      <p>Pick-a-Pair is a classic memory game where you flip cards to find matching pairs. Test your memory and try to match all pairs in as few moves as possible!</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />  
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Jack%20👋&fontSize=50&fontColor=fff&animation=twinkling)
