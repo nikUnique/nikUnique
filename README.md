@@ -3,7 +3,6 @@
 ### 👨‍💻 About Me
 
 - 🧠 Passionate about **React/Next.js, JavaScript/TypeScript**
-- ✍️ Check out my [blog](https://commitnobug.com/blog/)
 - 💼 Open to **remote JavaScript / React roles** worldwide
 - 🇬🇧 English level: Advanced
 
@@ -110,7 +109,7 @@ Got a project in mind or a role that fits? Let's talk.
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:commitnobug@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nik-utkov-18653b3b5/)
-[![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge)]([https://your-blog.com](https://commitnobug.com/blog/))
+[![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge)]([Check out my blog](https://commitnobug.com/blog/))
 
 </div>
 
