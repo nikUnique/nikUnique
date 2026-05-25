@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Jack%20👋&fontSize=50&fontColor=fff&animation=twinkling)
+
 ## 🚀 Projects
 
 <table>
@@ -77,44 +79,26 @@
   </tr>
 </table>
 
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Jack%20👋&fontSize=50&fontColor=fff&animation=twinkling)
-
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **[your current project]**
-- 🧠 Passionate about **React Native, JavaScript, and clean UI**
-- ✍️ I write about frontend dev on my [blog](https://your-blog.com)
+- 🧠 Passionate about **React/Next.js, JavaScript/TypeScript**
+- ✍️ Check out my [blog](https://commitnobug.com/blog/)
 - 💼 Open to **remote JavaScript / React roles** worldwide
-- ⚡ Fun fact: I memorize numbers using a memory palace
+- 🇬🇧 English level: Advanced
 
 ---
 
 ### 🛠️ Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=00D8FF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
----
-
-### ✍️ Latest Blog Posts
-
-<!-- Replace these with your real posts or use a GitHub Action to auto-update -->
-
-- 📝 [How to safely use npm](https://your-blog.com/how-to-safely-use-npm)
-- 📝 [Debugging with VS Code diff](https://your-blog.com/vscode-diff-debugging)
-- 📝 [Post title here](https://your-blog.com/post-slug)
-
-> 👉 [Read all posts →](https://your-blog.com)
 
 ---
 
