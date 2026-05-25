@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td width="45%" align="center" valign="top">
-      <img width="1920" height="794" alt="Pick a pair game interface" src="https://github.com/user-attachments/assets/b93ed81a-3b04-416a-abd6-c7d999866230" />
+      <img width="1918" height="1001" alt="Pick a pair game interface" src="https://github.com/user-attachments/assets/96dc9d52-ca5b-43d5-b984-fb0f4f5bc6f7" />
     </td>
     <td width="55%" valign="top">
       <h3><a href="https://pick-a-pair.commitnobug.com/" target="_blank" rel="noopener noreferrer">Pick-a-Pair</a></h3>
@@ -80,13 +80,6 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Jack%20👋&fontSize=50&fontColor=fff&animation=twinkling)
-
-### JavaScript Developer · React Native · Open Source
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://your-site.com)
-[![Blog](https://img.shields.io/badge/✍️_Blog-FF5722?style=for-the-badge)](https://your-blog.com)
-[![Email](https://img.shields.io/badge/📬_Hire_Me-6366f1?style=for-the-badge)](mailto:you@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 
 </div>
 
@@ -110,26 +103,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Projects
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🎙️ Project Name</h3>
-      <p>One or two sentence description of what this project does and why it's cool.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      </p>
-      <a href="https://github.com/username/repo"><img src="https://img.shields.io/badge/Code-0f172a?style=flat-square&logo=github&logoColor=white" /></a>
-      <a href="https://your-demo.com"><img src="https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
