@@ -1,4 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Jack%20👋&fontSize=50&fontColor=fff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Nik%20👋&fontSize=50&fontColor=fff&animation=twinkling)
+
+### 👨‍💻 About Me
+
+- 🧠 Passionate about **React/Next.js, JavaScript/TypeScript**
+- ✍️ Check out my [blog](https://commitnobug.com/blog/)
+- 💼 Open to **remote JavaScript / React roles** worldwide
+- 🇬🇧 English level: Advanced
+
+---
+
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=00D8FF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+---
 
 ## 🚀 Projects
 
@@ -83,34 +102,15 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🧠 Passionate about **React/Next.js, JavaScript/TypeScript**
-- ✍️ Check out my [blog](https://commitnobug.com/blog/)
-- 💼 Open to **remote JavaScript / React roles** worldwide
-- 🇬🇧 English level: Advanced
-
----
-
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=00D8FF)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
----
-
 ### 📬 Contact
 
 <div align="center">
 
 Got a project in mind or a role that fits? Let's talk.
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge)](https://your-blog.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:commitnobug@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nik-utkov-18653b3b5/)
+[![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge)]([https://your-blog.com](https://commitnobug.com/blog/))
 
 </div>
 
