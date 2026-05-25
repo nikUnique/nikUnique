@@ -3,15 +3,13 @@
 <table>
   <tr>
     <td width="45%" align="center" valign="top">
-      <!-- Replace with your actual screenshot URL -->
       <img src="https://commitnobug.com//static/images/2025/07-july/feature-graphic.png?w=640&q=75" alt="Voice Timer Android App" width="100%" style="border-radius:8px" />
     </td>
     <td width="55%" valign="top">
-      <h3><a href="https://mega.nz/file/pZpX2TBL#FtVV31OMJrzzNPvjnJhSSzIKiaSXtZkE5j3r2pyRa_Y" target="blank" rel="noopener noreferrer">Voice Timer</a></h3>
+      <h3><a href="https://commitnobug.com/blog/2025/07-july/the-voice-timer-app/" target="blank" rel="noopener noreferrer">Voice Timer</a></h3>
       <p>The Voice Timer app is a flexible timer app designed for hands-free control.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
         </p>
     </td>
@@ -21,14 +19,28 @@
 <table>
   <tr>
     <td width="45%" align="center" valign="top">
-      <!-- Replace with your actual screenshot URL -->
       <img src="https://commitnobug.com//static/images/2025/12-december/sea-battle-layout.png?w=1200&q=75" alt="Sea Battle Game" width="100%" style="border-radius:8px" />
     </td>
     <td width="55%" valign="top">
-      <h3>Sea Battle Game</h3>
+      <h3><a href="https://commitnobug.com/blog/2025/12-december/the-sea-battle-game/" target="_blank" rel="noopener noreferrer">Sea Battle Game</a></h3>
       <p>In the "Sea Battle" game, you can play against a computer in a sea battle game.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="45%" align="center" valign="top">
+      <img src="https://commitnobug.com//static/images/2025/11-november/pomo-simple-timer.png?w=1200&q=75" alt="The PomoSimple Timer" width="100%" style="border-radius:8px" />
+    </td>
+    <td width="55%" valign="top">
+      <h3><a href="https://commitnobug.com/blog/2025/11-november/the-pomo-simple-timer/" target="_blank" rel="noopener noreferrer">PomoSimple Timer</a></h3>
+      <p>The PomoSimple Timer is a web app designed for enhancing productivity by focusing on a task for short periods.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
     </td>
   </tr>
