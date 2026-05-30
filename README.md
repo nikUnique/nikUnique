@@ -2,7 +2,7 @@
 
 ### 🔭 About Me
 
-- 🧠 Passionate about **React/Next.js, JavaScript/TypeScript**
+- 🔥 Passionate about **React/Next.js, JavaScript/TypeScript**
 - 💼 Open to **remote JavaScript / React roles** worldwide
 - 🇬🇧 English level: Advanced
 
